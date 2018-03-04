@@ -4,7 +4,7 @@
 
 The "Dynamic Scenes" Dataset is provided for testing visual loop closure detection algorithms in highly dynamic scenes. It has strong background in some crucial applications such as autonomous driving system.
 
-This dataset contains two sequences named "Road Ring" and "CBD", respectively.
+The dataset was captured in the central commercial district of city of ten million people. The “Dynamic Scenes” dataset contains two sequences as shown in the figure above. The first one, which was acquired by traveling around a lake as the blue trajectory, named “Road Ring” . The other sequence, named “CBD,” was acquired by traveling around a business district, and is depicted by the red and green trajectories.
 
 The entire dataset is recorded by a [ZED](https://github.com/stereolabs) stereo camera at 1280 × 460 resolution @ 60fps.
 
