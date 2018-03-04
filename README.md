@@ -1,5 +1,7 @@
 # Dynamic Scenes Dataset for Visual Loop Closure Detection
 
+![image](https://github.com/HaoshengChen/Dynamic-Scenes/blob/master/pics/DynamicScenes.png)
+
 The "Dynamic Scenes" Dataset is provided for testing visual loop closure detection algorithms in highly dynamic scenes. It has strong background in some crucial applications such as autonomous driving system.
 
 This dataset contains two sequences named "Road Ring" and "CBD", respectively.
