@@ -23,3 +23,12 @@ Note that the "Dynamic Scenes" dataset also can be used for testing localization
 ![image](https://github.com/HaoshengChen/Dynamic-Scenes/blob/master/pics/0006395.png)
 
 * Download [CBD](https://drive.google.com/open?id=1uN85OZjUY4azK51j0QfUIGHc27yOFwuW) sequence from google drive. 
+
+## Citation
+
+If you use this dataset, please cite our dataset in the IEEE DataPort:
+
+```
+Haosheng Chen, Ge Zhang, Yangdong Ye, "Dynamic Scenes Dataset", IEEE Dataport, 2019. [Online]. Available: http://dx.doi.org/10.21227/wbh6-1k55. Accessed: Jan. 06, 2020.
+
+```
