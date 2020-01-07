@@ -29,5 +29,17 @@ Note that the "Dynamic Scenes" dataset also can be used for testing localization
 If you use this dataset, please cite our dataset in the IEEE DataPort:
 
 ```
+@data{wbh6-1k55-19,
+doi = {10.21227/wbh6-1k55},
+url = {http://dx.doi.org/10.21227/wbh6-1k55},
+author = {Haosheng Chen; Ge Zhang; Yangdong Ye },
+publisher = {IEEE Dataport},
+title = {Dynamic Scenes Dataset},
+year = {2019} }
+```
+
+or
+
+```
 Haosheng Chen, Ge Zhang, Yangdong Ye, "Dynamic Scenes Dataset", IEEE Dataport, 2019. [Online]. Available: http://dx.doi.org/10.21227/wbh6-1k55.
 ```
