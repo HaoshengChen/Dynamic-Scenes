@@ -26,20 +26,19 @@ Note that the "Dynamic Scenes" dataset also can be used for testing localization
 
 ## Citation
 
-If you use this dataset, please cite our dataset in the IEEE DataPort:
+If you use this dataset, please cite our paper:
 
 ```
-@data{wbh6-1k55-19,
-doi = {10.21227/wbh6-1k55},
-url = {http://dx.doi.org/10.21227/wbh6-1k55},
-author = {Haosheng Chen; Ge Zhang; Yangdong Ye },
-publisher = {IEEE Dataport},
-title = {Dynamic Scenes Dataset},
-year = {2019} }
+@ARTICLE{hschen2020,
+  author={H. {Chen} and G. {Zhang} and Y. {Ye}},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Semantic Loop Closure Detection with Instance-Level Inconsistency Removal in Dynamic Industrial Scenes}, 
+  year={2020},
+  pages={1-1},}
 ```
 
 or
 
 ```
-Haosheng Chen, Ge Zhang, Yangdong Ye, "Dynamic Scenes Dataset", IEEE Dataport, 2019. [Online]. Available: http://dx.doi.org/10.21227/wbh6-1k55.
+H. Chen, G. Zhang and Y. Ye, "Semantic Loop Closure Detection with Instance-Level Inconsistency Removal in Dynamic Industrial Scenes," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2020.3010580.
 ```
